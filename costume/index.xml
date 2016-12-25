@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Costumes on </title>
+    <link>http://localhost:1313/costume/</link>
+    <description>Recent content in Costumes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="http://localhost:1313/costume/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Costume Service</title>
+      <link>http://localhost:1313/costume</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/costume</guid>
+      <description>&lt;p&gt;&lt;h1&gt;Costume Service&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt;Inquire, booking, doubts, ideas or complains?&lt;/h4&gt;
+&lt;p&gt;Please contact Akash Tour general manager:&lt;/p&gt;
+&lt;h3&gt;Sate Singh Tindori&lt;/h3&gt;
+&lt;p&gt;mob: +91 9759934535&lt;/p&gt;
+&lt;h4&gt;Thank you so much for appreciate our service.&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ग्रहक.सेवा</title>
+      <link>http://localhost:1313/hicostume</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hicostume</guid>
+      <description>&lt;p&gt;&lt;h1&gt;ग्रहक.सेवा&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt;इनकवारी. पूछताछ. बुकिँग सुजाव और शिकायती पत्र कृपया समफरक करे &lt;/h4&gt;
+&lt;p&gt;कृपया कोन्टेक्ट आकाश टुर एन र्टैकिँग बरिष्ट प्रबनधक  &lt;/p&gt;
+&lt;h3&gt;सते सिँह&lt;/h3&gt;
+&lt;p&gt;फोन्: +91 9759934535&lt;/p&gt;
+&lt;h4&gt;धन्यवाद &lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Howtoarrives on </title>
+    <link>http://localhost:1313/howtoarrive/</link>
+    <description>Recent content in Howtoarrives on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="http://localhost:1313/howtoarrive/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to Arrive</title>
+      <link>http://localhost:1313/howtoarrive</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/howtoarrive</guid>
+      <description>&lt;p&gt;How to Arrive
+&lt;/div&gt;
+&lt;div data-role=&#34;content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/howbus.png&#34; style=&#34;width:100px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/howcar.png&#34; style=&#34;width:100px;&#34;&gt;
+&lt;p&gt;Delhi 300km Rishikesh 200km Guptkasi 24km Chaumasi&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/howtrain.png&#34; style=&#34;width:100px;&#34;&gt;
+&lt;p&gt;Delhi to Rishikesh&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/howplane.png&#34; style=&#34;width:100px;&#34;&gt;
+&lt;p&gt;Delhi to Jolly Grant airport 15km Rishikesh&lt;/p&gt;
+&lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>कैसे पहूँचना</title>
+      <link>http://localhost:1313/howtoarrivehi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/howtoarrivehi/</guid>
+      <description>&lt;p&gt;&lt;h1&gt;कैसे पहूँचना&lt;/h1&gt;
+&lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/howbus.png&#34; style=&#34;width:100px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/howcar.png&#34; style=&#34;width:100px;&#34;&gt;
+&lt;p&gt;Delhi 300km Rishikesh 200km Guptkasi 24km Chaumasi&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/howtrain.png&#34; style=&#34;width:100px;&#34;&gt;
+&lt;p&gt;Delhi to Rishikesh&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/howplane.png&#34; style=&#34;width:100px;&#34;&gt;
+&lt;p&gt;Delhi to Jolly Grant airport 15km Rishikesh&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

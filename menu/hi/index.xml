@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi on </title>
+    <link>http://localhost:1313/menu/hi/</link>
+    <description>Recent content in Hi on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="http://localhost:1313/menu/hi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>होमस्ते</title>
+      <link>http://localhost:1313/hihomestay</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hihomestay</guid>
+      <description>&lt;h1&gt;होम स्ते&lt;/h1&gt;
+
+&lt;div data-role=&#34;collapsibleset&#34; data-inset=&#34;false&#34;&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;गावँ&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/village1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/village2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/village3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/rum1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/rum2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/rum3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;रूम&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/room1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/img/room2.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/img/room3.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/img/room4.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/img/room5.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/img/room6.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/img/room7.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/img/room8.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;खाना&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/bat.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Bat&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/chemi.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Chemi&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/bat.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Marcha&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/gehunmix.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Jangora, Manuah and Gehun&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/gehun2.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Gehun&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/jo.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Jo&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/kadu.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;kadu&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/gobi.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Gobi&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/karela.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Karela&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/rai1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Rai&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/gehun1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Gehun&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/tamatar.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Tamatar&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/rai2.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Rai&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt;एक रात रहनाने की व्यवथा ओएक आदमी की तीन सौ रुपया होगी &lt;/h4&gt;
+&lt;h4&gt;होम सटेय योजना &lt;a href=&#34;http://localhost:1313/hitrust&#34;&gt;.सरकार का उपर्कम है.&lt;/a&gt;&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>यत्रा</title>
+      <link>http://localhost:1313/yatra</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/yatra</guid>
+      <description>&lt;h1&gt;यत्रा&lt;/h1&gt;
+
+&lt;p&gt;&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/rast1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;केढारनाथ&lt;/h1&gt;
+&lt;a href=&#34;http://localhost:1313/hikedarnath&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/kedarnath.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;img src=&#34;http://localhost:1313/img/rast2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;मनणी&lt;/h1&gt;
+&lt;a href=&#34;http://localhost:1313/himandani&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/durga.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;img src=&#34;http://localhost:1313/img/manani4.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>कैम्पिँग</title>
+      <link>http://localhost:1313/hicamping</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hicamping</guid>
+      <description>&lt;h1&gt;कैम्पिँग एन र्टैकिँग&lt;/h1&gt;
+
+&lt;div data-role=&#34;collapsibleset&#34; data-inset=&#34;false&#34;&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;कैम्पिँग&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/camping1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/camping2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/camping3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/camping4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/camping5.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/rekaview.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;p&gt;कैम्पिँग व्यू&lt;/p&gt;
+&lt;/div&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;फूल&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/buras.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;p&gt;Buras Flower&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/sapeitburas.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;p&gt;White Buras&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/bhramkamal1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;p&gt;Bhramkamal&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/bhramkamal2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;p&gt;Bhramkamal&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/nilkamal.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/fenkamal.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;p&gt;Neelkamal and Fenkamal&lt;/p&gt;
+&lt;/div&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;जानवर&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/murga.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;p&gt;High-altitude Murga&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/img/kasmrga.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;p&gt;Kasturi Mriga&lt;/p&gt;
+&lt;/div&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;त्रैकिँग गाईड &lt;/h1&gt;
+&lt;a href=&#34;http://localhost:1313/higuides&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/chai.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt;2000rp दिन &lt;/h4&gt;
+&lt;h4&gt;एक आदमी के लिऐ चाय खाना पीना और रहना मिलेगा&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>प्रकृतिक</title>
+      <link>http://localhost:1313/hiecology</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hiecology</guid>
+      <description>&lt;h1&gt;प्रकृतिक&lt;/h1&gt;
+
+&lt;div data-role=&#34;collapsibleset&#34; data-inset=&#34;false&#34;&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;प्रकृति पर्थटन&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco6.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco5.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;गी&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi1.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi2.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi.gif&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi5.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;गावँ की ढुकान &lt;/h1&gt;
+&lt;a href=&#34;http://localhost:1313/histore&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/logokamal.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;भीजिट लोकल  मनदिर &lt;/h1&gt;
+&lt;a href=&#34;http://localhost:1313/hikalimath&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/kalimath.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/hiruch&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/ruch1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/hichamundama&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/chamunda.jpg&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt;चौमासी गाव पुरान समे धर्म से चालता है&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

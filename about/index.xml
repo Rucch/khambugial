@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on </title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Akash Tour</title>
+      <link>http://localhost:1313/about</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about</guid>
+      <description>&lt;p&gt;&lt;h1&gt;About Akash Tour&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt;When 2013 disaster came, the &amp;ldquo;N.I.M.&amp;rdquo; rescue-team used de path to go to Kedarnath. 50.000 people survived comming to Chaumasi by this path. Then the government approved and rebuild making the earth path become a new stone path. Kham Bugial path is a easy and safe rout to Kedarnath from Chaumasi.&lt;/p&gt;
+&lt;h4&gt;Thank you so much for appreciate our service.&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>जानकारी</title>
+      <link>http://localhost:1313/hiabout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hiabout/</guid>
+      <description>&lt;p&gt;&lt;h1&gt;जानकारी&lt;/h1&gt;
+&lt;/div&gt;
+&lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt;चौमासी के बारे मै जानकारी जब आपदा आयी थी तो निम की रेसकू टीम केदारनाथ यही से गयी पचास हजार लोग खाम बुगयाल से सुरक्षित चौमासी आये थे उसके णबाद सरकार ने इस पैदल मार्ग को चौमासी से केदारनाथ बनवाया&lt;/h4&gt;&lt;/p&gt;
+
+&lt;h4&gt;जब चौमासी गाव मे आयेगे तो कृपया शराब पीना एवम मास खाना मना है&lt;/h4&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
