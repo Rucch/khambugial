@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecos on </title>
+    <link>http://localhost:1313/eco/</link>
+    <description>Recent content in Ecos on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="http://localhost:1313/eco/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ecoturism</title>
+      <link>http://localhost:1313/ecology</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ecology</guid>
+      <description>&lt;h1&gt;Ecoturism&lt;/h1&gt;
+
+&lt;div data-role=&#34;collapsibleset&#34; data-inset=&#34;false&#34;&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;Ecology&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco5.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco6.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;Gi&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi2.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi1.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi.gif&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi5.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;Village Store&lt;/h1&gt;
+&lt;a href=&#34;http://localhost:1313/store&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/logokamal.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;Visit local Temples&lt;/h1&gt;
+&lt;a href=&#34;http://localhost:1313/kalimath&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/kalimath.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/ruch&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/ruch1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/chamundama&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/chamunda.jpg&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt; Chaumasi Village is like the old times. Making alive the real tradition and spirituality.&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>प्रकृतिक</title>
+      <link>http://localhost:1313/hiecology</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hiecology</guid>
+      <description>&lt;h1&gt;प्रकृतिक&lt;/h1&gt;
+
+&lt;div data-role=&#34;collapsibleset&#34; data-inset=&#34;false&#34;&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;प्रकृति पर्थटन&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco6.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/eco5.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;गी&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi1.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi2.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi.gif&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/gi5.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;गावँ की ढुकान &lt;/h1&gt;
+&lt;a href=&#34;http://localhost:1313/histore&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/logokamal.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;भीजिट लोकल  मनदिर &lt;/h1&gt;
+&lt;a href=&#34;http://localhost:1313/hikalimath&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/kalimath.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/hiruch&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/ruch1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/hichamundama&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/chamunda.jpg&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt;चौमासी गाव पुरान समे धर्म से चालता है&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Store</title>
+      <link>http://localhost:1313/store/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/store/</guid>
+      <description>&lt;h1&gt;Store&lt;/h1&gt;
+
+&lt;p&gt;&lt;div data-role=&#34;collapsibleset&#34; data-inset=&#34;false&#34;&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;Wollen Doki&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/ducandoki.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;h4&gt;1000rp&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;Gi&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/ducangi.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;h4&gt;1kg 500rp&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;Wood Tokiri&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/ducantok.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;h4&gt;300rp&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt;You can found all this local products at Chaumasi Village&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>गावँ की ढुकान </title>
+      <link>http://localhost:1313/histore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/histore/</guid>
+      <description>&lt;h1&gt;गावँ की ढुकान&lt;/h1&gt;
+
+&lt;p&gt;&lt;div data-role=&#34;collapsibleset&#34; data-inset=&#34;false&#34;&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;ढोकि&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/ducandoki.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;h4&gt;1000rp&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;गी&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/ducangi.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;h4&gt;1kg 500rp&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;तोक्री&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/ducantok.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;h4&gt;300rp&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt;सभी समान गावँ मे मीलेगा&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kalimath</title>
+      <link>http://localhost:1313/kalimath</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/kalimath</guid>
+      <description>&lt;p&gt;&lt;p&gt;Kalimath Temple&lt;/p&gt;
+&lt;div class=&#34;ui-content&#34;style=&#34;text-align:center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/kalimath.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;2013 Disaster&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/kali1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/kali2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/kali4.jpg&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/kali5.jpg&#34; style=&#34;width:250px;&#34;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt;Kalimath Village and Temple are at 12km from Guptakashi on half way to Chaumasi at the same roud.&lt;/h4&gt;
+&lt;h4&gt;.&lt;/h4&gt;
+&lt;h4&gt;Worship Devi at Kalimath&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>कालीमट</title>
+      <link>http://localhost:1313/hikalimath</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hikalimath</guid>
+      <description>&lt;p&gt;&lt;p&gt;कालीमट मनदिर &lt;/p&gt;
+&lt;div class=&#34;ui-content&#34;style=&#34;text-align:center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/kalimath.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;2013 आपदा&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/kali1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/kali2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/kali4.jpg&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/kali5.jpg&#34; style=&#34;width:250px;&#34;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt; गुप्तकाशी से  चौमासी गाडी़  की  रोड़  के आधे   राष्ता      मे मनदिर है &lt;/h4&gt;
+&lt;h4&gt;.&lt;/h4&gt;
+&lt;h4&gt;कालीमट मे माँ भगवटी की भक्टि करो&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rucch Mahadeva</title>
+      <link>http://localhost:1313/ruch</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ruch</guid>
+      <description>&lt;p&gt;&lt;p&gt;Rucch Mahadeva Kotmaheswari&lt;/p&gt;
+&lt;div class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/ruch1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;p&gt;Sangham and Temple&lt;/p&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;2013 Disaster&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/ruch2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/ruch4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/ruch3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt;Rucch Mahadev is a 500m walking down from Kalimath-Chaumasi motor roud.
+&lt;img src=&#34;http://localhost:1313/img/ruch5.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;h4&gt;Worship Shiva and Devi at Rucch Mahadeva&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>रुछ महादेव</title>
+      <link>http://localhost:1313/hiruch</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hiruch</guid>
+      <description>&lt;p&gt;&lt;p&gt;रुछ महादेव कोटिमाहेश्वरी&lt;/p&gt;
+&lt;div class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/ruch1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;p&gt;संगम मनदिर &lt;/p&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;2013 आपदा&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/img/ruch2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/ruch4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/ruch3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt;संगम  कोटमाहेस्वरी  गाडी़  की  रोड़ से 1km  नीचे के  राष्ते हैं &lt;/h4&gt;
+&lt;img src=&#34;http://localhost:1313/img/ruch5.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;h4&gt;रुछ महादेव मे शिव और माँ भगवटी की भक्टि करो &lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chamunda Ma</title>
+      <link>http://localhost:1313/chamundama</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chamundama</guid>
+      <description>&lt;p&gt;&lt;p&gt;Chamunda Ma Temple&lt;/p&gt;
+&lt;/div&gt;
+&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/cham2.jpg&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/cham1.jpg&#34; style=&#34;width:250px;&#34;&gt;
+&lt;h4&gt;Chamunda Temple is reached by a 300m walkup from the road by the gate of Chaumasi Village.&lt;/h4&gt;
+&lt;img src=&#34;http://localhost:1313/img/cham3.jpg&#34; style=&#34;width:250px;&#34;&gt;
+&lt;h4&gt;Worship Devi at Chamunda&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>चामुन्डा माँ</title>
+      <link>http://localhost:1313/hichamundama</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hichamundama</guid>
+      <description>&lt;p&gt;&lt;p&gt;चामुन्डा माँ मनदिर &lt;/p&gt;
+&lt;div class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/cham2.jpg&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/img/cham1.jpg&#34; style=&#34;width:250px;&#34;&gt;
+&lt;h4&gt;चामुणडा मनदिर रास्ता तीन सौ मीटर चढाई से पहुचा जाता हैँ।  &lt;/h4&gt;
+&lt;img src=&#34;http://localhost:1313/img/cham3.jpg&#34; style=&#34;width:250px;&#34;&gt;
+&lt;h4&gt; चामुन्डा  मनदिर मे माँ भगवटी की भक्टि करो&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

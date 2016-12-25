@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/camping</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hicamping</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ecology</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hiecology</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/homestay</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hihomestay</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/pilgrim</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/yatra</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/khambugialchaumasi/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hikhambugialchaumassi</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/kedarnath</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hikedarnath</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/howtoarrive</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/howtoarrivehi/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/mandani</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/himandani</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hiabout/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/store/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/histore/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hikalimath</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/kalimath</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/guides</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/higuides</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ruch</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hiruch</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hichamundama</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/chamundama</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hisupport/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/support</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/trust</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hitrust</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/costume</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hicostume</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/review/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hireview/</loc>
+  </url>
+  
+</urlset>

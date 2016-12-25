@@ -1,0 +1,11 @@
+
+		<ul data-role="listview" data-inset="true" data-mini="true">
+			{{ range (index .Site.Taxonomies.menu .Params.lang).Pages.ByWeight }}
+                	<li><a href="{{ .Permalink  }}"><img src="/img/{{ .Params.img }}" style="max-height: 70px; padding: 2px;">
+				<h2>{{ .Title }}</h2></a></li>
+			{{ end }}
+		</ul>	
+	</div><!--/main-->
+		
+		
+

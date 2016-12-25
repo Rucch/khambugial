@@ -1,0 +1,13 @@
+baseurl = "https://rucch.github.io/"
+
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+canonifyurls = true
+
+
+[taxonomies]
+menu = "menu"
+group = "groups"
