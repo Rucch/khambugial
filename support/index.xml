@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Supports on </title>
-    <link>http://localhost:1313/khambugial/support/</link>
+    <link>https://rucch.github.io/khambugial/support/</link>
     <description>Recent content in Supports on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://localhost:1313/khambugial/support/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rucch.github.io/khambugial/support/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Help and Support</title>
-      <link>http://localhost:1313/khambugial/support</link>
+      <link>https://rucch.github.io/khambugial/support</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/khambugial/support</guid>
+      <guid>https://rucch.github.io/khambugial/support</guid>
       <description>&lt;p&gt;&lt;h1&gt;Help and Support&lt;/h1&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>साहायात और सहयोग</title>
-      <link>http://localhost:1313/khambugial/hisupport/</link>
+      <link>https://rucch.github.io/khambugial/hisupport/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/khambugial/hisupport/</guid>
+      <guid>https://rucch.github.io/khambugial/hisupport/</guid>
       <description>&lt;p&gt;&lt;h1&gt;साहायात और सहयोग&lt;/h1&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;

@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Campings on </title>
-    <link>http://localhost:1313/khambugial/camping/</link>
+    <link>https://rucch.github.io/khambugial/camping/</link>
     <description>Recent content in Campings on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://localhost:1313/khambugial/camping/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rucch.github.io/khambugial/camping/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Camping</title>
-      <link>http://localhost:1313/khambugial/camping</link>
+      <link>https://rucch.github.io/khambugial/camping</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/khambugial/camping</guid>
+      <guid>https://rucch.github.io/khambugial/camping</guid>
       <description>&lt;h1&gt;Camping&lt;/h1&gt;
 
 &lt;div data-role=&#34;collapsibleset&#34; data-inset=&#34;false&#34;&gt;
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Camping&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/camping1.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/camping2.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/camping3.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/camping4.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/camping5.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/rekaview.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/camping1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/camping2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/camping3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/camping4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/camping5.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/rekaview.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;Camping Views&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Trekking Guides&lt;/h1&gt;
-&lt;a href=&#34;http://localhost:1313/khambugial/guides&#34;&gt;&lt;img src=&#34;http://localhost:1313/khambugial/img/chai.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://rucch.github.io/khambugial/guides&#34;&gt;&lt;img src=&#34;https://rucch.github.io/khambugial/img/chai.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Flora&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/buras.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/buras.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;Buras Flower&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/sapeitburas.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/sapeitburas.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;White Buras&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/bhramkamal1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/bhramkamal1.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;Bhramkamal&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/bhramkamal2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/bhramkamal2.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;Bhramkamal&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/nilkamal.png&#34; style=&#34;height:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/fenkamal.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/nilkamal.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/fenkamal.png&#34; style=&#34;height:250px;&#34;&gt;
 &lt;p&gt;Neelkamal and Fenkamal&lt;/p&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Fauna&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/murga.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/murga.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;High-altitude Murga&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/kasmrga.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/kasmrga.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;Kasturi Mriga&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -62,47 +62,47 @@
     
     <item>
       <title>कैम्पिँग</title>
-      <link>http://localhost:1313/khambugial/hicamping</link>
+      <link>https://rucch.github.io/khambugial/hicamping</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/khambugial/hicamping</guid>
+      <guid>https://rucch.github.io/khambugial/hicamping</guid>
       <description>&lt;h1&gt;कैम्पिँग एन र्टैकिँग&lt;/h1&gt;
 
 &lt;div data-role=&#34;collapsibleset&#34; data-inset=&#34;false&#34;&gt;
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;कैम्पिँग&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/camping1.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/camping2.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/camping3.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/camping4.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/camping5.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/rekaview.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/camping1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/camping2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/camping3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/camping4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/camping5.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/rekaview.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;कैम्पिँग व्यू&lt;/p&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;फूल&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/buras.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/buras.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;Buras Flower&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/sapeitburas.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/sapeitburas.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;White Buras&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/bhramkamal1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/bhramkamal1.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;Bhramkamal&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/bhramkamal2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/bhramkamal2.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;Bhramkamal&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/nilkamal.png&#34; style=&#34;height:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/fenkamal.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/nilkamal.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/fenkamal.png&#34; style=&#34;height:250px;&#34;&gt;
 &lt;p&gt;Neelkamal and Fenkamal&lt;/p&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;जानवर&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/murga.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/murga.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;High-altitude Murga&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/kasmrga.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/kasmrga.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;Kasturi Mriga&lt;/p&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;त्रैकिँग गाईड &lt;/h1&gt;
-&lt;a href=&#34;http://localhost:1313/khambugial/higuides&#34;&gt;&lt;img src=&#34;http://localhost:1313/khambugial/img/chai.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://rucch.github.io/khambugial/higuides&#34;&gt;&lt;img src=&#34;https://rucch.github.io/khambugial/img/chai.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -115,45 +115,45 @@
     
     <item>
       <title>Trekking Guides</title>
-      <link>http://localhost:1313/khambugial/guides</link>
+      <link>https://rucch.github.io/khambugial/guides</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/khambugial/guides</guid>
+      <guid>https://rucch.github.io/khambugial/guides</guid>
       <description>&lt;p&gt;&lt;h1&gt;Trekking Guides&lt;/h1&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/guide1.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/guide1.png&#34; style=&#34;height:250px;&#34;&gt;
 &lt;h4&gt;Guide Sate Singh Tindori&lt;/h4&gt;
 &lt;h4&gt;Phone:+91 9759934535&lt;/h4&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/guide2.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/guide3.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/guide2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/guide3.png&#34; style=&#34;height:250px;&#34;&gt;
 &lt;h4&gt;Guide Bharath Singh&lt;/h4&gt;
 &lt;h4&gt;Phone:+91 99568992092&lt;/h4&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/guide4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/guide4.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;h4&gt;Thank you so much for appreciate our service.&lt;/h4&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/ist.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/ist.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>र्टैकिँग गाईड</title>
-      <link>http://localhost:1313/khambugial/higuides</link>
+      <link>https://rucch.github.io/khambugial/higuides</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/khambugial/higuides</guid>
+      <guid>https://rucch.github.io/khambugial/higuides</guid>
       <description>&lt;p&gt;&lt;h1&gt;र्टैकिँग गाईड&lt;/h1&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/guide1.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/guide1.png&#34; style=&#34;height:250px;&#34;&gt;
 &lt;h4&gt;गाईड  सते सिँह&lt;/h4&gt;
 &lt;h4&gt;फोन्:+91 9759934535&lt;/h4&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/guide2.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/guide3.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/guide2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/guide3.png&#34; style=&#34;height:250px;&#34;&gt;
 &lt;h4&gt;गाईड  भाराथ सिँह&lt;/h4&gt;
 &lt;h4&gt;फोन्:+91 99568992092&lt;/h4&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/guide4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/guide4.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;h4&gt;धन्यवाद&lt;/h4&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/ist.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://rucch.github.io/khambugial/img/ist.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
