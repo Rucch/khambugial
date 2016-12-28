@@ -23,15 +23,11 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/hihomestay</loc>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/khambugial/homestay</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/yatra</loc>
+    <loc>http://localhost:1313/khambugial/hihomestay</loc>
   </url>
   
   <url>
@@ -39,11 +35,15 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/khambugial/yatra</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/khambugial/khambugialchaumasi/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/hikedarnath</loc>
+    <loc>http://localhost:1313/khambugial/hikhambugialchaumasi</loc>
   </url>
   
   <url>
@@ -51,7 +51,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/hikhambugialchaumasi</loc>
+    <loc>http://localhost:1313/khambugial/hikedarnath</loc>
   </url>
   
   <url>
@@ -71,11 +71,11 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/hiabout/</loc>
+    <loc>http://localhost:1313/khambugial/about</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/about</loc>
+    <loc>http://localhost:1313/khambugial/hiabout/</loc>
   </url>
   
   <url>
@@ -87,11 +87,11 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/hikalimath</loc>
+    <loc>http://localhost:1313/khambugial/kalimath</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/kalimath</loc>
+    <loc>http://localhost:1313/khambugial/hikalimath</loc>
   </url>
   
   <url>
@@ -111,11 +111,11 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/chamundama</loc>
+    <loc>http://localhost:1313/khambugial/hichamundama</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/hichamundama</loc>
+    <loc>http://localhost:1313/khambugial/chamundama</loc>
   </url>
   
   <url>
