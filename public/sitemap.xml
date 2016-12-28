@@ -7,11 +7,11 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/camping</loc>
+    <loc>http://localhost:1313/khambugial/hicamping</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/hicamping</loc>
+    <loc>http://localhost:1313/khambugial/camping</loc>
   </url>
   
   <url>
@@ -47,11 +47,11 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/kedarnath</loc>
+    <loc>http://localhost:1313/khambugial/hikedarnath</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/hikedarnath</loc>
+    <loc>http://localhost:1313/khambugial/kedarnath</loc>
   </url>
   
   <url>
@@ -63,15 +63,11 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/himandani</loc>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/khambugial/mandani</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/about</loc>
+    <loc>http://localhost:1313/khambugial/himandani</loc>
   </url>
   
   <url>
@@ -79,11 +75,15 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/store/</loc>
+    <loc>http://localhost:1313/khambugial/about</loc>
   </url>
   
   <url>
     <loc>http://localhost:1313/khambugial/histore/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/khambugial/store/</loc>
   </url>
   
   <url>
@@ -103,11 +103,11 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/ruch</loc>
+    <loc>http://localhost:1313/khambugial/hiruch</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/khambugial/hiruch</loc>
+    <loc>http://localhost:1313/khambugial/ruch</loc>
   </url>
   
   <url>
