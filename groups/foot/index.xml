@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Foot on </title>
-    <link>http://localhost:1313/groups/foot/</link>
+    <link>http://localhost:1313/khambugial/groups/foot/</link>
     <description>Recent content in Foot on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://localhost:1313/groups/foot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/khambugial/groups/foot/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Akash Tour</title>
-      <link>http://localhost:1313/about</link>
+      <link>http://localhost:1313/khambugial/about</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about</guid>
+      <guid>http://localhost:1313/khambugial/about</guid>
       <description>&lt;p&gt;&lt;h1&gt;About Akash Tour&lt;/h1&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>Costume Service</title>
-      <link>http://localhost:1313/costume</link>
+      <link>http://localhost:1313/khambugial/costume</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/costume</guid>
+      <guid>http://localhost:1313/khambugial/costume</guid>
       <description>&lt;p&gt;&lt;h1&gt;Costume Service&lt;/h1&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
@@ -40,15 +40,15 @@
     
     <item>
       <title>Government Trust</title>
-      <link>http://localhost:1313/trust</link>
+      <link>http://localhost:1313/khambugial/trust</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/trust</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/news2.jpg&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/news3.jpg&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/news1.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/news4.jpg&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/news5.jpg&#34; style=&#34;width:250px;&#34;&gt;
+      <guid>http://localhost:1313/khambugial/trust</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/khambugial/img/news2.jpg&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/news3.jpg&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/news1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/news4.jpg&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/news5.jpg&#34; style=&#34;width:250px;&#34;&gt;
 &lt;/div&gt;
 &lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
 &lt;h4&gt;Home stay at the village is a government tourist project.&lt;/h4&gt;&lt;/p&gt;
@@ -57,10 +57,10 @@
     
     <item>
       <title>Help and Support</title>
-      <link>http://localhost:1313/support</link>
+      <link>http://localhost:1313/khambugial/support</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/support</guid>
+      <guid>http://localhost:1313/khambugial/support</guid>
       <description>&lt;p&gt;&lt;h1&gt;Help and Support&lt;/h1&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
@@ -71,19 +71,19 @@
     
     <item>
       <title>How to Arrive</title>
-      <link>http://localhost:1313/howtoarrive</link>
+      <link>http://localhost:1313/khambugial/howtoarrive</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/howtoarrive</guid>
+      <guid>http://localhost:1313/khambugial/howtoarrive</guid>
       <description>&lt;p&gt;How to Arrive
 &lt;/div&gt;
 &lt;div data-role=&#34;content&#34; style=&#34;text-align:center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/howbus.png&#34; style=&#34;width:100px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/howcar.png&#34; style=&#34;width:100px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/howbus.png&#34; style=&#34;width:100px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/howcar.png&#34; style=&#34;width:100px;&#34;&gt;
 &lt;p&gt;Delhi 300km Rishikesh 200km Guptkasi 24km Chaumasi&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/howtrain.png&#34; style=&#34;width:100px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/howtrain.png&#34; style=&#34;width:100px;&#34;&gt;
 &lt;p&gt;Delhi to Rishikesh&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/howplane.png&#34; style=&#34;width:100px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/howplane.png&#34; style=&#34;width:100px;&#34;&gt;
 &lt;p&gt;Delhi to Jolly Grant airport 15km Rishikesh&lt;/p&gt;
 &lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;&lt;/p&gt;
 </description>
@@ -91,10 +91,10 @@
     
     <item>
       <title>Our Service</title>
-      <link>http://localhost:1313/khambugialchaumasi/</link>
+      <link>http://localhost:1313/khambugial/khambugialchaumasi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/khambugialchaumasi/</guid>
+      <guid>http://localhost:1313/khambugial/khambugialchaumasi/</guid>
       <description>&lt;p&gt;&lt;h1&gt;Welcome to&lt;/h1&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
@@ -105,10 +105,10 @@
     
     <item>
       <title>Review</title>
-      <link>http://localhost:1313/review/</link>
+      <link>http://localhost:1313/khambugial/review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/review/</guid>
+      <guid>http://localhost:1313/khambugial/review/</guid>
       <description>&lt;p&gt;&lt;h1&gt;Review&lt;/h1&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
@@ -118,23 +118,23 @@
     
     <item>
       <title>Trekking Guides</title>
-      <link>http://localhost:1313/guides</link>
+      <link>http://localhost:1313/khambugial/guides</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/guides</guid>
+      <guid>http://localhost:1313/khambugial/guides</guid>
       <description>&lt;p&gt;&lt;h1&gt;Trekking Guides&lt;/h1&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/guide1.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/guide1.png&#34; style=&#34;height:250px;&#34;&gt;
 &lt;h4&gt;Guide Sate Singh Tindori&lt;/h4&gt;
 &lt;h4&gt;Phone:+91 9759934535&lt;/h4&gt;
-&lt;img src=&#34;http://localhost:1313/img/guide2.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/guide3.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/guide2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/guide3.png&#34; style=&#34;height:250px;&#34;&gt;
 &lt;h4&gt;Guide Bharath Singh&lt;/h4&gt;
 &lt;h4&gt;Phone:+91 99568992092&lt;/h4&gt;
-&lt;img src=&#34;http://localhost:1313/img/guide4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/guide4.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;h4&gt;Thank you so much for appreciate our service.&lt;/h4&gt;
-&lt;img src=&#34;http://localhost:1313/img/ist.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/ist.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,145 +2,145 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>En on </title>
-    <link>http://localhost:1313/menu/en/</link>
+    <link>http://localhost:1313/khambugial/menu/en/</link>
     <description>Recent content in En on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://localhost:1313/menu/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/khambugial/menu/en/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Home Stay</title>
-      <link>http://localhost:1313/homestay</link>
+      <link>http://localhost:1313/khambugial/homestay</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/homestay</guid>
+      <guid>http://localhost:1313/khambugial/homestay</guid>
       <description>&lt;h1&gt;Home Stay&lt;/h1&gt;
 
 &lt;div data-role=&#34;collapsibleset&#34; data-inset=&#34;false&#34;&gt;
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Village&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/img/village1.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/village2.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/village3.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/rum1.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/rum2.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/rum3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/village1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/village2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/village3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/rum1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/rum2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/rum3.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;/div&gt;
 
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Acomodation&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/img/room1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/img/room2.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/img/room3.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/img/room4.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/img/room5.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/img/room6.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/img/room7.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/img/room8.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/room1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/room2.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/room3.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/room4.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/room5.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/room6.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/room7.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/room8.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Food&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/img/bat.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/bat.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;p&gt;Bat&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/chemi.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/chemi.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;p&gt;Chemi&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/marcha.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/marcha.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;p&gt;Marcha&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/gehunmix.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/gehunmix.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;p&gt;Jangora, Manuah and Gehun&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/gehun2.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/gehun2.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;p&gt;Gehun&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/jo.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/jo.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;p&gt;Jo&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/kadu.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/kadu.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;p&gt;kadu&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/gobi.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/gobi.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;p&gt;Gobi&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/karela.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/karela.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;p&gt;Karela&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/rai1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/rai1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;p&gt;Rai&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/gehun1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/gehun1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;p&gt;Gehun&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/tamatar.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/tamatar.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;p&gt;Tamatar&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/rai2.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/rai2.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;p&gt;Rai&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
-&lt;h4&gt; The price is organized by the village members and is fixed to 300rp/each daily with all included for any different family where you can stay. Chaumasi participate on a Government Homestay Trust &lt;a href=&#34;http://localhost:1313/trust&#34;&gt;Project.&lt;/a&gt;&lt;/h4&gt;&lt;/p&gt;
+&lt;h4&gt; The price is organized by the village members and is fixed to 300rp/each daily with all included for any different family where you can stay. Chaumasi participate on a Government Homestay Trust &lt;a href=&#34;http://localhost:1313/khambugial/trust&#34;&gt;Project.&lt;/a&gt;&lt;/h4&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pilgrimage</title>
-      <link>http://localhost:1313/pilgrim</link>
+      <link>http://localhost:1313/khambugial/pilgrim</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pilgrim</guid>
+      <guid>http://localhost:1313/khambugial/pilgrim</guid>
       <description>&lt;h1&gt;Pilgrimage&lt;/h1&gt;
 
 &lt;p&gt;&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/rast1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/rast1.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Kedarnath&lt;/h1&gt;
-&lt;a href=&#34;http://localhost:1313/kedarnath&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/kedarnath.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/khambugial/kedarnath&#34;&gt;&lt;img src=&#34;http://localhost:1313/khambugial/img/kedarnath.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;/div&gt;
-&lt;img src=&#34;http://localhost:1313/img/rast2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/rast2.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Mandani&lt;/h1&gt;
-&lt;a href=&#34;http://localhost:1313/mandani&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/durga.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/khambugial/mandani&#34;&gt;&lt;img src=&#34;http://localhost:1313/khambugial/img/durga.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;/div&gt;
-&lt;img src=&#34;http://localhost:1313/img/manani4.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/manani4.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Camping</title>
-      <link>http://localhost:1313/camping</link>
+      <link>http://localhost:1313/khambugial/camping</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/camping</guid>
+      <guid>http://localhost:1313/khambugial/camping</guid>
       <description>&lt;h1&gt;Camping&lt;/h1&gt;
 
 &lt;div data-role=&#34;collapsibleset&#34; data-inset=&#34;false&#34;&gt;
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Camping&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/img/camping1.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/camping2.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/camping3.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/camping4.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/camping5.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/rekaview.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/camping1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/camping2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/camping3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/camping4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/camping5.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/rekaview.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;Camping Views&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Trekking Guides&lt;/h1&gt;
-&lt;a href=&#34;http://localhost:1313/guides&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/chai.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/khambugial/guides&#34;&gt;&lt;img src=&#34;http://localhost:1313/khambugial/img/chai.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Flora&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/img/buras.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/buras.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;Buras Flower&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/sapeitburas.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/sapeitburas.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;White Buras&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/bhramkamal1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/bhramkamal1.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;Bhramkamal&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/bhramkamal2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/bhramkamal2.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;Bhramkamal&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/nilkamal.png&#34; style=&#34;height:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/fenkamal.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/nilkamal.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/fenkamal.png&#34; style=&#34;height:250px;&#34;&gt;
 &lt;p&gt;Neelkamal and Fenkamal&lt;/p&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Fauna&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/img/murga.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/murga.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;High-altitude Murga&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/img/kasmrga.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/kasmrga.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;p&gt;Kasturi Mriga&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -152,42 +152,42 @@
     
     <item>
       <title>Ecoturism</title>
-      <link>http://localhost:1313/ecology</link>
+      <link>http://localhost:1313/khambugial/ecology</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ecology</guid>
+      <guid>http://localhost:1313/khambugial/ecology</guid>
       <description>&lt;h1&gt;Ecoturism&lt;/h1&gt;
 
 &lt;div data-role=&#34;collapsibleset&#34; data-inset=&#34;false&#34;&gt;
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Ecology&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/img/eco5.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/eco2.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/eco3.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/eco6.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/eco4.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/eco1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/eco5.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/eco2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/eco3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/eco6.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/eco4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/eco1.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;/div&gt;
 
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Gi&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/img/gi2.png&#34; style=&#34;height:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/gi1.png&#34; style=&#34;height:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/gi.gif&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/gi4.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/img/gi5.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/gi2.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/gi1.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/gi.gif&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/gi4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/gi5.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;/div&gt;
 
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Village Store&lt;/h1&gt;
-&lt;a href=&#34;http://localhost:1313/store&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/logokamal.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/khambugial/store&#34;&gt;&lt;img src=&#34;http://localhost:1313/khambugial/img/logokamal.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Visit local Temples&lt;/h1&gt;
-&lt;a href=&#34;http://localhost:1313/kalimath&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/kalimath.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;a href=&#34;http://localhost:1313/ruch&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/ruch1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;a href=&#34;http://localhost:1313/chamundama&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/chamunda.jpg&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/khambugial/kalimath&#34;&gt;&lt;img src=&#34;http://localhost:1313/khambugial/img/kalimath.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/khambugial/ruch&#34;&gt;&lt;img src=&#34;http://localhost:1313/khambugial/img/ruch1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/khambugial/chamundama&#34;&gt;&lt;img src=&#34;http://localhost:1313/khambugial/img/chamunda.jpg&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;

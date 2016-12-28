@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on </title>
-    <link>http://localhost:1313/about/</link>
+    <link>http://localhost:1313/khambugial/about/</link>
     <description>Recent content in Abouts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/khambugial/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Akash Tour</title>
-      <link>http://localhost:1313/about</link>
+      <link>http://localhost:1313/khambugial/about</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about</guid>
+      <guid>http://localhost:1313/khambugial/about</guid>
       <description>&lt;p&gt;&lt;h1&gt;About Akash Tour&lt;/h1&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>जानकारी</title>
-      <link>http://localhost:1313/hiabout/</link>
+      <link>http://localhost:1313/khambugial/hiabout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/hiabout/</guid>
+      <guid>http://localhost:1313/khambugial/hiabout/</guid>
       <description>&lt;p&gt;&lt;h1&gt;जानकारी&lt;/h1&gt;
 &lt;/div&gt;
 &lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
