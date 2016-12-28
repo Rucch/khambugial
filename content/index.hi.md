@@ -1,6 +1,6 @@
 +++
 title = "अन्य सेवाये"
-url = "/hikhambugialchaumassi"
+url = "/hikhambugialchaumasi"
 
 lang = "hi"
 groups = ["foothi"]
