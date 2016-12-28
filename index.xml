@@ -8,59 +8,6 @@
     <atom:link href="http://localhost:1313/khambugial/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Camping</title>
-      <link>http://localhost:1313/khambugial/camping</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/khambugial/camping</guid>
-      <description>&lt;h1&gt;Camping&lt;/h1&gt;
-
-&lt;div data-role=&#34;collapsibleset&#34; data-inset=&#34;false&#34;&gt;
-&lt;div data-role=&#34;collapsible&#34;&gt;
-&lt;h1&gt;Camping&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/camping1.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/camping2.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/camping3.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/camping4.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/camping5.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/rekaview.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;p&gt;Camping Views&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div data-role=&#34;collapsible&#34;&gt;
-&lt;h1&gt;Trekking Guides&lt;/h1&gt;
-&lt;a href=&#34;http://localhost:1313/khambugial/guides&#34;&gt;&lt;img src=&#34;http://localhost:1313/khambugial/img/chai.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;div data-role=&#34;collapsible&#34;&gt;
-&lt;h1&gt;Flora&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/buras.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;p&gt;Buras Flower&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/sapeitburas.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;p&gt;White Buras&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/bhramkamal1.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;p&gt;Bhramkamal&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/bhramkamal2.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;p&gt;Bhramkamal&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/nilkamal.png&#34; style=&#34;height:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/fenkamal.png&#34; style=&#34;height:250px;&#34;&gt;
-&lt;p&gt;Neelkamal and Fenkamal&lt;/p&gt;
-&lt;/div&gt;
-&lt;div data-role=&#34;collapsible&#34;&gt;
-&lt;h1&gt;Fauna&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/murga.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;p&gt;High-altitude Murga&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/kasmrga.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;p&gt;Kasturi Mriga&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
-&lt;h4&gt; The organized price is fixed to 2000rp by head daily with all included.&lt;/h4&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>कैम्पिँग</title>
       <link>http://localhost:1313/khambugial/hicamping</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -110,6 +57,59 @@
 &lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
 &lt;h4&gt;2000rp दिन &lt;/h4&gt;
 &lt;h4&gt;एक आदमी के लिऐ चाय खाना पीना और रहना मिलेगा&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Camping</title>
+      <link>http://localhost:1313/khambugial/camping</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/khambugial/camping</guid>
+      <description>&lt;h1&gt;Camping&lt;/h1&gt;
+
+&lt;div data-role=&#34;collapsibleset&#34; data-inset=&#34;false&#34;&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;Camping&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/camping1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/camping2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/camping3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/camping4.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/camping5.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/rekaview.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;p&gt;Camping Views&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;Trekking Guides&lt;/h1&gt;
+&lt;a href=&#34;http://localhost:1313/khambugial/guides&#34;&gt;&lt;img src=&#34;http://localhost:1313/khambugial/img/chai.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;Flora&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/buras.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;p&gt;Buras Flower&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/sapeitburas.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;p&gt;White Buras&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/bhramkamal1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;p&gt;Bhramkamal&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/bhramkamal2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;p&gt;Bhramkamal&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/nilkamal.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/fenkamal.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;p&gt;Neelkamal and Fenkamal&lt;/p&gt;
+&lt;/div&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;Fauna&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/murga.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;p&gt;High-altitude Murga&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/kasmrga.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;p&gt;Kasturi Mriga&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt; The organized price is fixed to 2000rp by head daily with all included.&lt;/h4&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -207,6 +207,73 @@
     </item>
     
     <item>
+      <title>Home Stay</title>
+      <link>http://localhost:1313/khambugial/homestay</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/khambugial/homestay</guid>
+      <description>&lt;h1&gt;Home Stay&lt;/h1&gt;
+
+&lt;div data-role=&#34;collapsibleset&#34; data-inset=&#34;false&#34;&gt;
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;Village&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/village1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/village2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/village3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/rum1.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/rum2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/rum3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;/div&gt;
+
+&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;Acomodation&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/room1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/room2.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/room3.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/room4.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/room5.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/room6.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/room7.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/room8.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;div data-role=&#34;collapsible&#34;&gt;
+&lt;h1&gt;Food&lt;/h1&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/bat.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Bat&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/chemi.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Chemi&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/marcha.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Marcha&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/gehunmix.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Jangora, Manuah and Gehun&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/gehun2.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Gehun&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/jo.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Jo&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/kadu.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;kadu&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/gobi.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Gobi&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/karela.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Karela&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/rai1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Rai&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/gehun1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Gehun&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/tamatar.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Tamatar&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/rai2.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;Rai&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt; The price is organized by the village members and is fixed to 300rp/each daily with all included for any different family where you can stay. Chaumasi participate on a Government Homestay Trust &lt;a href=&#34;http://localhost:1313/khambugial/trust&#34;&gt;Project.&lt;/a&gt;&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>होमस्ते</title>
       <link>http://localhost:1313/khambugial/hihomestay</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -275,73 +342,6 @@
     </item>
     
     <item>
-      <title>Home Stay</title>
-      <link>http://localhost:1313/khambugial/homestay</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/khambugial/homestay</guid>
-      <description>&lt;h1&gt;Home Stay&lt;/h1&gt;
-
-&lt;div data-role=&#34;collapsibleset&#34; data-inset=&#34;false&#34;&gt;
-&lt;div data-role=&#34;collapsible&#34;&gt;
-&lt;h1&gt;Village&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/village1.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/village2.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/village3.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/rum1.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/rum2.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/rum3.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;/div&gt;
-
-&lt;div data-role=&#34;collapsible&#34;&gt;
-&lt;h1&gt;Acomodation&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/room1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/room2.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/room3.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/room4.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/room5.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/room6.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/room7.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/room8.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;div data-role=&#34;collapsible&#34;&gt;
-&lt;h1&gt;Food&lt;/h1&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/bat.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;p&gt;Bat&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/chemi.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;p&gt;Chemi&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/marcha.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;p&gt;Marcha&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/gehunmix.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;p&gt;Jangora, Manuah and Gehun&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/gehun2.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;p&gt;Gehun&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/jo.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;p&gt;Jo&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/kadu.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;p&gt;kadu&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/gobi.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;p&gt;Gobi&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/karela.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;p&gt;Karela&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/rai1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;p&gt;Rai&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/gehun1.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;p&gt;Gehun&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/tamatar.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;p&gt;Tamatar&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/rai2.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
-&lt;p&gt;Rai&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
-&lt;h4&gt; The price is organized by the village members and is fixed to 300rp/each daily with all included for any different family where you can stay. Chaumasi participate on a Government Homestay Trust &lt;a href=&#34;http://localhost:1313/khambugial/trust&#34;&gt;Project.&lt;/a&gt;&lt;/h4&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Pilgrimage</title>
       <link>http://localhost:1313/khambugial/pilgrim</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -388,42 +388,6 @@
     </item>
     
     <item>
-      <title>अन्य सेवाये</title>
-      <link>http://localhost:1313/khambugial/hikhambugialchaumassi</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/khambugial/hikhambugialchaumassi</guid>
-      <description>&lt;p&gt;&lt;h1&gt;खाम   बुगयाल  चौमासी &lt;/h1&gt;
-&lt;/div&gt;
-&lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
-&lt;h4&gt;खाम बुग्याल चौमासी से शिव केदारनाथ और देवी मनणी यात्रा राष्ता जत है &lt;/h4&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kedarnath</title>
-      <link>http://localhost:1313/khambugial/kedarnath</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/khambugial/kedarnath</guid>
-      <description>&lt;p&gt;Kedarnath Pilgrimage
-&lt;div class=&#34;ui-content&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/kedar3.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;/div&gt;&lt;/div&gt;
-&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
-&lt;h3&gt;Trekking Grade:&lt;/h3&gt;&lt;h4&gt;B&lt;/h4&gt;
-&lt;h3&gt;Distance:&lt;/h3&gt;&lt;h4&gt;18km&lt;/h4&gt;
-&lt;h3&gt;Days:&lt;/h3&gt;&lt;h4&gt;Dura rasta 2&lt;/h4&gt;&lt;h4&gt;Hatni rasta: 3&lt;/h4&gt;
-&lt;h3&gt;Price:&lt;/h3&gt;&lt;h4&gt;2000rp/day&lt;/h4&gt;&lt;h4&gt;per each trakker with chai, food and sleeping all included.&lt;/h4&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/kedar2.png&#34; style=&#34;width:250px;&#34;&gt;
-&lt;h3&gt;Season:&lt;/h3&gt;&lt;h4&gt;1st april to 30th jun&lt;/h4&gt;&lt;h4&gt;and&lt;/h4&gt;&lt;h4&gt;1st set to 30th nov&lt;/h4&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/map1.png&#34; style=&#34;max-width:70%;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/kedar5.png&#34; style=&#34;height:250px;&#34;&gt;
-&lt;h4&gt;Worship Shiva at Kedarnath&lt;/h4&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Our Service</title>
       <link>http://localhost:1313/khambugial/khambugialchaumasi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -434,6 +398,19 @@
 &lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
 &lt;h2&gt;Akash Tour &amp;amp; Trekking&lt;/h2&gt;
 &lt;h4&gt;You can Home-stay at Chaumasi village at 2040m of altitude. We will assist you to experience local food, surroundings, nature and pilgrimage. We from Akash Tour &amp;amp; Trekking are proud to receive visitors willing to camping, trekking or just a peacefull stay in the himalayan hill on the foot of Sri Kedarnath. From Kham Bugial Chaumasi beggins Shiva Kedarnath (18km) and Devi Mandani (20km) pilgrimages. The footpath is safe, clean, and direct.&lt;/h4&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>अन्य सेवाये</title>
+      <link>http://localhost:1313/khambugial/hikhambugialchaumasi</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/khambugial/hikhambugialchaumasi</guid>
+      <description>&lt;p&gt;&lt;h1&gt;खाम   बुगयाल  चौमासी &lt;/h1&gt;
+&lt;/div&gt;
+&lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h4&gt;खाम बुग्याल चौमासी से शिव केदारनाथ और देवी मनणी यात्रा राष्ता जत है &lt;/h4&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -461,22 +438,25 @@
     </item>
     
     <item>
-      <title>How to Arrive</title>
-      <link>http://localhost:1313/khambugial/howtoarrive</link>
+      <title>Kedarnath</title>
+      <link>http://localhost:1313/khambugial/kedarnath</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/khambugial/howtoarrive</guid>
-      <description>&lt;p&gt;How to Arrive
-&lt;/div&gt;
-&lt;div data-role=&#34;content&#34; style=&#34;text-align:center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/howbus.png&#34; style=&#34;width:100px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/howcar.png&#34; style=&#34;width:100px;&#34;&gt;
-&lt;p&gt;Delhi 300km Rishikesh 200km Guptkasi 24km Chaumasi&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/howtrain.png&#34; style=&#34;width:100px;&#34;&gt;
-&lt;p&gt;Delhi to Rishikesh&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/khambugial/img/howplane.png&#34; style=&#34;width:100px;&#34;&gt;
-&lt;p&gt;Delhi to Jolly Grant airport 15km Rishikesh&lt;/p&gt;
-&lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/khambugial/kedarnath</guid>
+      <description>&lt;p&gt;Kedarnath Pilgrimage
+&lt;div class=&#34;ui-content&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/kedar3.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;h3&gt;Trekking Grade:&lt;/h3&gt;&lt;h4&gt;B&lt;/h4&gt;
+&lt;h3&gt;Distance:&lt;/h3&gt;&lt;h4&gt;18km&lt;/h4&gt;
+&lt;h3&gt;Days:&lt;/h3&gt;&lt;h4&gt;Dura rasta 2&lt;/h4&gt;&lt;h4&gt;Hatni rasta: 3&lt;/h4&gt;
+&lt;h3&gt;Price:&lt;/h3&gt;&lt;h4&gt;2000rp/day&lt;/h4&gt;&lt;h4&gt;per each trakker with chai, food and sleeping all included.&lt;/h4&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/kedar2.png&#34; style=&#34;width:250px;&#34;&gt;
+&lt;h3&gt;Season:&lt;/h3&gt;&lt;h4&gt;1st april to 30th jun&lt;/h4&gt;&lt;h4&gt;and&lt;/h4&gt;&lt;h4&gt;1st set to 30th nov&lt;/h4&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/map1.png&#34; style=&#34;max-width:70%;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/kedar5.png&#34; style=&#34;height:250px;&#34;&gt;
+&lt;h4&gt;Worship Shiva at Kedarnath&lt;/h4&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -499,25 +479,45 @@
     </item>
     
     <item>
-      <title>Mandani</title>
-      <link>http://localhost:1313/khambugial/mandani</link>
+      <title>How to Arrive</title>
+      <link>http://localhost:1313/khambugial/howtoarrive</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/khambugial/mandani</guid>
-      <description>&lt;p&gt;Mandani Pilgrimage
+      <guid>http://localhost:1313/khambugial/howtoarrive</guid>
+      <description>&lt;p&gt;How to Arrive
+&lt;/div&gt;
+&lt;div data-role=&#34;content&#34; style=&#34;text-align:center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/howbus.png&#34; style=&#34;width:100px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/howcar.png&#34; style=&#34;width:100px;&#34;&gt;
+&lt;p&gt;Delhi 300km Rishikesh 200km Guptkasi 24km Chaumasi&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/howtrain.png&#34; style=&#34;width:100px;&#34;&gt;
+&lt;p&gt;Delhi to Rishikesh&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/khambugial/img/howplane.png&#34; style=&#34;width:100px;&#34;&gt;
+&lt;p&gt;Delhi to Jolly Grant airport 15km Rishikesh&lt;/p&gt;
+&lt;div data-role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>मनणी</title>
+      <link>http://localhost:1313/khambugial/himandani</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/khambugial/himandani</guid>
+      <description>&lt;p&gt;मनणी यत्रा
 &lt;div class=&#34;ui-content&#34;&gt;
 &lt;img src=&#34;http://localhost:1313/khambugial/img/manani4.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;img src=&#34;http://localhost:1313/khambugial/img/manani5.png&#34; style=&#34;width:250px;&#34;&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div role=&#34;main&#34; class=&#34;ui-content&#34; style=&#34;text-align:center;&#34;&gt;
-&lt;h3&gt;Trekking Grade:&lt;/h3&gt;&lt;h4&gt;C&lt;/h4&gt;
-&lt;h3&gt;Distance:&lt;/h3&gt;&lt;h4&gt;20km&lt;/h4&gt;
-&lt;h3&gt;Days:&lt;/h3&gt;&lt;h4&gt;5&lt;/h4&gt;&lt;h4&gt;One day stays and back to Chaumasi&lt;/h4&gt;
-&lt;h3&gt;Price:&lt;/h3&gt;&lt;h4&gt;5 days 10000rp&lt;/h4&gt;&lt;h4&gt;Extra day: 2000rp&lt;/h4&gt;&lt;h4&gt;for each trakker with chai, food and sleeping all included.&lt;/h4&gt;
+&lt;h3&gt;त्रैकिँग ग्रैड:&lt;/h3&gt;&lt;h4&gt;एक दिन रहना और वाफसी चौमासी आना &lt;/h4&gt;&lt;/h4&gt;
+&lt;h3&gt;दूरी:&lt;/h3&gt;&lt;h4&gt;20km&lt;/h4&gt;
+&lt;h3&gt;दिन:&lt;/h3&gt;&lt;h4&gt;5दि&lt;/h4&gt;
+&lt;h3&gt;मुल्य:&lt;/h3&gt;&lt;h4&gt;10000rp&lt;/h4&gt;&lt;h4&gt;अतिरिक्त दिन: 2000rp&lt;/h4&gt;&lt;h4&gt;एक आदमी के लिऐ चाय खाना पीना और रहना मिलेगा&lt;/h4&gt;
 &lt;img src=&#34;http://localhost:1313/khambugial/img/map2.png&#34; style=&#34;max-width:100%;&#34;&gt;
 &lt;img src=&#34;http://localhost:1313/khambugial/img/manani1.png&#34; style=&#34;height:250px;&#34;&gt;
-&lt;h4&gt;Worship Devi at Mandani&lt;/h4&gt;&lt;/p&gt;
+&lt;h4&gt;मनणी मे माँ भगवटी की भक्टि करो &lt;/h4&gt;&lt;/p&gt;
 </description>
     </item>
     
