@@ -29,7 +29,7 @@
 
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;Trekking Guides&lt;/h1&gt;
-&lt;a href=&#34;https://rucch.github.io/khambugial/guides&#34;&gt;&lt;img src=&#34;https://rucch.github.io/khambugial/img/chai.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://rucch.github.io/khambugial/guides&#34; target=&#34;_self&#34;&gt;&lt;img src=&#34;https://rucch.github.io/khambugial/img/chai.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;div data-role=&#34;collapsible&#34;&gt;
@@ -102,7 +102,7 @@
 &lt;/div&gt;
 &lt;div data-role=&#34;collapsible&#34;&gt;
 &lt;h1&gt;त्रैकिँग गाईड &lt;/h1&gt;
-&lt;a href=&#34;https://rucch.github.io/khambugial/higuides&#34;&gt;&lt;img src=&#34;https://rucch.github.io/khambugial/img/chai.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://rucch.github.io/khambugial/higuides&#34; target=&#34;_self&#34;&gt;&lt;img src=&#34;https://rucch.github.io/khambugial/img/chai.png&#34; style=&#34;width:250px;&#34;&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
