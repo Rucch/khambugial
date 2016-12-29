@@ -7,15 +7,11 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/hicamping</loc>
-  </url>
-  
-  <url>
     <loc>https://rucch.github.io/khambugial/camping</loc>
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/ecology</loc>
+    <loc>https://rucch.github.io/khambugial/hicamping</loc>
   </url>
   
   <url>
@@ -23,11 +19,15 @@
   </url>
   
   <url>
+    <loc>https://rucch.github.io/khambugial/homestay</loc>
+  </url>
+  
+  <url>
     <loc>https://rucch.github.io/khambugial/hihomestay</loc>
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/homestay</loc>
+    <loc>https://rucch.github.io/khambugial/ecology</loc>
   </url>
   
   <url>
@@ -47,11 +47,11 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/hikedarnath</loc>
+    <loc>https://rucch.github.io/khambugial/hikhambugialchaumasi</loc>
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/hikhambugialchaumasi</loc>
+    <loc>https://rucch.github.io/khambugial/hikedarnath</loc>
   </url>
   
   <url>
@@ -63,19 +63,19 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/himandani</loc>
-  </url>
-  
-  <url>
     <loc>https://rucch.github.io/khambugial/mandani</loc>
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/hiabout/</loc>
+    <loc>https://rucch.github.io/khambugial/himandani</loc>
   </url>
   
   <url>
     <loc>https://rucch.github.io/khambugial/about</loc>
+  </url>
+  
+  <url>
+    <loc>https://rucch.github.io/khambugial/hiabout/</loc>
   </url>
   
   <url>
@@ -111,11 +111,11 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/hichamundama</loc>
+    <loc>https://rucch.github.io/khambugial/chamundama</loc>
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/chamundama</loc>
+    <loc>https://rucch.github.io/khambugial/hichamundama</loc>
   </url>
   
   <url>
@@ -135,11 +135,11 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/hicostume</loc>
+    <loc>https://rucch.github.io/khambugial/costume</loc>
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/costume</loc>
+    <loc>https://rucch.github.io/khambugial/hicostume</loc>
   </url>
   
   <url>
