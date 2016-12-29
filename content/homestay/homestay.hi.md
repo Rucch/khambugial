@@ -65,4 +65,4 @@ menu_weight = 10
 </div>
 <div role="main" class="ui-content" style="text-align:center;">
 <h4>एक रात रहनाने की व्यवथा ओएक आदमी की तीन सौ रुपया होगी </h4>
-<h4>होम सटेय योजना <a href="/hitrust">.सरकार का उपर्कम है.</a></h4>
+<h4>होम सटेय योजना <a href="/hitrust" target="_self">.सरकार का उपर्कम है.</a></h4>

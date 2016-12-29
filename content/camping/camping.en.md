@@ -23,7 +23,7 @@ menu_weight = 30
 
 <div data-role="collapsible">
 <h1>Trekking Guides</h1>
-<a href="/guides"><img src="/img/chai.png" style="width:250px;"></a>
+<a href="/guides" target="_self"><img src="/img/chai.png" style="width:250px;"></a>
 </div>
 
 <div data-role="collapsible">

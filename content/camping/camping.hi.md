@@ -43,7 +43,7 @@ menu_weight = 30
 </div>
 <div data-role="collapsible">
 <h1>त्रैकिँग गाईड </h1>
-<a href="/higuides"><img src="/img/chai.png" style="width:250px;"></a>
+<a href="/higuides" target="_self"><img src="/img/chai.png" style="width:250px;"></a>
 </div>
 </div>
 

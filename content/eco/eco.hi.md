@@ -32,14 +32,14 @@ menu_weight = 40
 
 <div data-role="collapsible">
 <h1>गावँ की ढुकान </h1>
-<a href="/histore"><img src="/img/logokamal.png" style="width:250px;"></a>
+<a href="/histore" target="_self"><img src="/img/logokamal.png" style="width:250px;"></a>
 </div>
 
 <div data-role="collapsible">
 <h1>भीजिट लोकल  मनदिर </h1>
-<a href="/hikalimath"><img src="/img/kalimath.png" style="width:250px;"></a>
-<a href="/hiruch"><img src="/img/ruch1.png" style="width:250px;"></a>
-<a href="/hichamundama"><img src="/img/chamunda.jpg" style="width:250px;"></a>
+<a href="/hikalimath" target="_self"><img src="/img/kalimath.png" style="width:250px;"></a>
+<a href="/hiruch" target="_self"><img src="/img/ruch1.png" style="width:250px;"></a>
+<a href="/hichamundama" target="_self"><img src="/img/chamunda.jpg" style="width:250px;"></a>
 </div>
 </div>
 </div>

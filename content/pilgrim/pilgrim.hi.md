@@ -13,12 +13,12 @@ menu_weight = 20
 <img src="/img/rast1.png" style="width:250px;">
 <div data-role="collapsible">
 <h1>केढारनाथ</h1>
-<a href="/hikedarnath"><img src="/img/kedarnath.png" style="width:250px;"></a>
+<a href="/hikedarnath" target="_self"><img src="/img/kedarnath.png" style="width:250px;"></a>
 </div>
 <img src="/img/rast2.png" style="width:250px;">
 <div data-role="collapsible">
 <h1>मनणी</h1>
-<a href="/himandani"><img src="/img/durga.png" style="width:250px;"></a>
+<a href="/himandani" target="_self"><img src="/img/durga.png" style="width:250px;"></a>
 </div>
 <img src="/img/manani4.png" style="width:250px;">
 

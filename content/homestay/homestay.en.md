@@ -65,4 +65,4 @@ menu_weight = 10
 </div>
 </div>
 <div role="main" class="ui-content" style="text-align:center;">
-<h4> The price is organized by the village members and is fixed to 300rp/each daily with all included for any different family where you can stay. Chaumasi participate on a Government Homestay Trust <a href="/trust">Project.</a></h4>
+<h4> The price is organized by the village members and is fixed to 300rp/each daily with all included for any different family where you can stay. Chaumasi participate on a Government Homestay Trust <a href="/trust" target="_self">Project.</a></h4>

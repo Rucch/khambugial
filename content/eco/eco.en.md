@@ -32,14 +32,14 @@ menu_weight = 40
 
 <div data-role="collapsible">
 <h1>Village Store</h1>
-<a href="/store"><img src="/img/logokamal.png" style="width:250px;"></a>
+<a href="/store" target="_self"><img src="/img/logokamal.png" style="width:250px;"></a>
 </div>
 
 <div data-role="collapsible">
 <h1>Visit local Temples</h1>
-<a href="/kalimath"><img src="/img/kalimath.png" style="width:250px;"></a>
-<a href="/ruch"><img src="/img/ruch1.png" style="width:250px;"></a>
-<a href="/chamundama"><img src="/img/chamunda.jpg" style="width:250px;"></a>
+<a href="/kalimath" target="_self"><img src="/img/kalimath.png" style="width:250px;"></a>
+<a href="/ruch" target="_self"><img src="/img/ruch1.png" style="width:250px;"></a>
+<a href="/chamundama" target="_self"><img src="/img/chamunda.jpg" style="width:250px;"></a>
 </div>
 </div>
 </div>
