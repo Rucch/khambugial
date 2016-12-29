@@ -11,23 +11,23 @@
 
 		{{ if (eq .Params.lang "hi") }}
 {{ range .Site.Taxonomies.groups.foothi.Pages.ByWeight }}
-               <p><a href="{{ .Permalink  }}"style="text-decoration:none;" >{{ .Title }}</a></p>	
+               <p><a href="{{ .Permalink  }}" target="_self" style="text-decoration:none;" >{{ .Title }}</a></p>	
 		{{ end }} 
 		{{ else }}
 {{ range .Site.Taxonomies.groups.foot.Pages.ByWeight }}
-               	<p><a href="{{ .Permalink  }}"style="text-decoration:none;">{{ .Title }}</a></p>	
+               	<p><a href="{{ .Permalink  }}" target="_self" style="text-decoration:none;">{{ .Title }}</a></p>	
 		{{ end }} 
 	{{ end }}
 		
 		{{ if (eq .Params.lang "hi") }}
 		<h4>कुईक् लीन्क्स</h4>		
 {{ range .Site.Taxonomies.groups.quickhi.Pages.ByWeight }}
-               <p><a href="{{ .Permalink  }}"style="text-decoration:none;">{{ .Title }}</a></p>	
+               <p><a href="{{ .Permalink  }}" target="_self" style="text-decoration:none;">{{ .Title }}</a></p>	
 		{{ end }} 
 		{{ else }}
 		<h4>Quick Links</h4>		
 {{ range .Site.Taxonomies.groups.quick.Pages.ByWeight }}
-               	<p><a href="{{ .Permalink  }}"style="text-decoration:none;">{{ .Title }}</a></p>	
+               	<p><a href="{{ .Permalink  }}" target="_self" style="text-decoration:none;">{{ .Title }}</a></p>	
 		{{ end }} 
 	{{ end }}
 		<img src="/img/gan.png" style="max-width:20%;">

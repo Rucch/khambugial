@@ -15,15 +15,19 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/hiecology</loc>
-  </url>
-  
-  <url>
     <loc>https://rucch.github.io/khambugial/ecology</loc>
   </url>
   
   <url>
+    <loc>https://rucch.github.io/khambugial/hiecology</loc>
+  </url>
+  
+  <url>
     <loc>https://rucch.github.io/khambugial/homestay</loc>
+  </url>
+  
+  <url>
+    <loc>https://rucch.github.io/khambugial/hihomestay</loc>
   </url>
   
   <url>
@@ -32,10 +36,6 @@
   
   <url>
     <loc>https://rucch.github.io/khambugial/yatra</loc>
-  </url>
-  
-  <url>
-    <loc>https://rucch.github.io/khambugial/hihomestay</loc>
   </url>
   
   <url>
@@ -55,19 +55,19 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/howtoarrivehi/</loc>
-  </url>
-  
-  <url>
     <loc>https://rucch.github.io/khambugial/howtoarrive</loc>
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/himandani</loc>
+    <loc>https://rucch.github.io/khambugial/howtoarrivehi/</loc>
   </url>
   
   <url>
     <loc>https://rucch.github.io/khambugial/mandani</loc>
+  </url>
+  
+  <url>
+    <loc>https://rucch.github.io/khambugial/himandani</loc>
   </url>
   
   <url>
@@ -79,11 +79,11 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/store/</loc>
+    <loc>https://rucch.github.io/khambugial/histore/</loc>
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/histore/</loc>
+    <loc>https://rucch.github.io/khambugial/store/</loc>
   </url>
   
   <url>
@@ -127,11 +127,11 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/trust</loc>
+    <loc>https://rucch.github.io/khambugial/hitrust</loc>
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/hitrust</loc>
+    <loc>https://rucch.github.io/khambugial/trust</loc>
   </url>
   
   <url>
