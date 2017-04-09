@@ -43,10 +43,6 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/kedarnath</loc>
-  </url>
-  
-  <url>
     <loc>https://rucch.github.io/khambugial/hikhambugialchaumasi</loc>
   </url>
   
@@ -55,7 +51,7 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/howtoarrivehi/</loc>
+    <loc>https://rucch.github.io/khambugial/kedarnath</loc>
   </url>
   
   <url>
@@ -63,11 +59,15 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/himandani</loc>
+    <loc>https://rucch.github.io/khambugial/howtoarrivehi/</loc>
   </url>
   
   <url>
     <loc>https://rucch.github.io/khambugial/mandani</loc>
+  </url>
+  
+  <url>
+    <loc>https://rucch.github.io/khambugial/himandani</loc>
   </url>
   
   <url>
@@ -103,19 +103,19 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/ruch</loc>
-  </url>
-  
-  <url>
     <loc>https://rucch.github.io/khambugial/hiruch</loc>
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/chamundama</loc>
+    <loc>https://rucch.github.io/khambugial/ruch</loc>
   </url>
   
   <url>
     <loc>https://rucch.github.io/khambugial/hichamundama</loc>
+  </url>
+  
+  <url>
+    <loc>https://rucch.github.io/khambugial/chamundama</loc>
   </url>
   
   <url>
