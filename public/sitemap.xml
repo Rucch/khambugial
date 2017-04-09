@@ -43,15 +43,15 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/hikedarnath</loc>
-  </url>
-  
-  <url>
     <loc>https://rucch.github.io/khambugial/hikhambugialchaumasi</loc>
   </url>
   
   <url>
     <loc>https://rucch.github.io/khambugial/kedarnath</loc>
+  </url>
+  
+  <url>
+    <loc>https://rucch.github.io/khambugial/hikedarnath</loc>
   </url>
   
   <url>
@@ -63,11 +63,11 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/mandani</loc>
+    <loc>https://rucch.github.io/khambugial/himandani</loc>
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/himandani</loc>
+    <loc>https://rucch.github.io/khambugial/mandani</loc>
   </url>
   
   <url>
@@ -103,19 +103,19 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/hiruch</loc>
-  </url>
-  
-  <url>
     <loc>https://rucch.github.io/khambugial/ruch</loc>
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/hichamundama</loc>
+    <loc>https://rucch.github.io/khambugial/hiruch</loc>
   </url>
   
   <url>
     <loc>https://rucch.github.io/khambugial/chamundama</loc>
+  </url>
+  
+  <url>
+    <loc>https://rucch.github.io/khambugial/hichamundama</loc>
   </url>
   
   <url>
@@ -143,11 +143,11 @@
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/hireview/</loc>
+    <loc>https://rucch.github.io/khambugial/review/</loc>
   </url>
   
   <url>
-    <loc>https://rucch.github.io/khambugial/review/</loc>
+    <loc>https://rucch.github.io/khambugial/hireview/</loc>
   </url>
   
 </urlset>
